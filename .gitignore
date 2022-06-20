@@ -1,0 +1,8 @@
+.idea
+node_modules
+*.log
+/lib
+coverage
+/dist
+/tmp
+/out-tsc
